@@ -108,7 +108,3 @@ The project follows the Kotlin coding style guide. Use the **Kotlin Formatter** 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
---- 
-
-This README provides a comprehensive overview and acts as a guide for anyone working on or reviewing your project. Let me know if you'd like to include more specific details or modify it!
